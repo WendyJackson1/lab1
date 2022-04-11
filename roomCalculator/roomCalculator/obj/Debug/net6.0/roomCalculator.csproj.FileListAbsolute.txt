@@ -1,0 +1,15 @@
+C:\GCclasswork\c#class\roomCalculator\roomCalculator\bin\Debug\net6.0\roomCalculator.exe
+C:\GCclasswork\c#class\roomCalculator\roomCalculator\bin\Debug\net6.0\roomCalculator.deps.json
+C:\GCclasswork\c#class\roomCalculator\roomCalculator\bin\Debug\net6.0\roomCalculator.runtimeconfig.json
+C:\GCclasswork\c#class\roomCalculator\roomCalculator\bin\Debug\net6.0\roomCalculator.dll
+C:\GCclasswork\c#class\roomCalculator\roomCalculator\bin\Debug\net6.0\ref\roomCalculator.dll
+C:\GCclasswork\c#class\roomCalculator\roomCalculator\bin\Debug\net6.0\roomCalculator.pdb
+C:\GCclasswork\c#class\roomCalculator\roomCalculator\obj\Debug\net6.0\roomCalculator.csproj.AssemblyReference.cache
+C:\GCclasswork\c#class\roomCalculator\roomCalculator\obj\Debug\net6.0\roomCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\GCclasswork\c#class\roomCalculator\roomCalculator\obj\Debug\net6.0\roomCalculator.AssemblyInfoInputs.cache
+C:\GCclasswork\c#class\roomCalculator\roomCalculator\obj\Debug\net6.0\roomCalculator.AssemblyInfo.cs
+C:\GCclasswork\c#class\roomCalculator\roomCalculator\obj\Debug\net6.0\roomCalculator.csproj.CoreCompileInputs.cache
+C:\GCclasswork\c#class\roomCalculator\roomCalculator\obj\Debug\net6.0\roomCalculator.dll
+C:\GCclasswork\c#class\roomCalculator\roomCalculator\obj\Debug\net6.0\ref\roomCalculator.dll
+C:\GCclasswork\c#class\roomCalculator\roomCalculator\obj\Debug\net6.0\roomCalculator.pdb
+C:\GCclasswork\c#class\roomCalculator\roomCalculator\obj\Debug\net6.0\roomCalculator.genruntimeconfig.cache
