@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GCclasswork\\c#class\\roomCalculator\\roomCalculator\\roomCalculator.csproj",
+      "projectUniqueName": "C:\\Users\\wendy\\OneDrive\\Desktop\\labbylabfolder\\lab1\\roomCalculator\\roomCalculator\\roomCalculator.csproj",
       "projectName": "roomCalculator",
-      "projectPath": "C:\\GCclasswork\\c#class\\roomCalculator\\roomCalculator\\roomCalculator.csproj",
+      "projectPath": "C:\\Users\\wendy\\OneDrive\\Desktop\\labbylabfolder\\lab1\\roomCalculator\\roomCalculator\\roomCalculator.csproj",
       "packagesPath": "C:\\Users\\wendy\\.nuget\\packages\\",
-      "outputPath": "C:\\GCclasswork\\c#class\\roomCalculator\\roomCalculator\\obj\\",
+      "outputPath": "C:\\Users\\wendy\\OneDrive\\Desktop\\labbylabfolder\\lab1\\roomCalculator\\roomCalculator\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\wendy\\AppData\\Roaming\\NuGet\\NuGet.Config",
